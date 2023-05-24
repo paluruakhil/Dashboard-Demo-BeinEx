@@ -1,0 +1,55 @@
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  //width: auto;
+  height: auto;
+  width: 300px;
+  //max-width: 300px;
+  // margin: auto;
+  //text-align: center;
+  //font-family: arial;
+}
+
+.value {
+  color: black;
+  font-size: 22px;
+  font-weight: bolder;
+}
+
+.name{
+  color: grey;
+  font-weight: bolder;
+  font-size:small;
+}
+
+.increse-value{
+  color: green;
+  font-size: small;
+  font-weight: bold;
+}
+.desc{
+  color: grey;
+  font-size: small;
+}
+
+.mat-grid-tile-content{
+  margin-top: 0 !important;
+  padding: 0 !important;
+}
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  // background-color: #dddddd;
+}
+
+
